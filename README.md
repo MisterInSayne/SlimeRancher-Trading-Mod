@@ -18,7 +18,7 @@ The mod allows for putting even slimes into the Depot's, as a bonus side effect 
 
 ## How to use it
 It's very easy. 
-1. You press the semicolon button in game to open up the connection UI. 
+1. You press the semicolon (;) button in game to open up the connection UI. 
 2. One person presses the 'host' button, and they'll be the host.
 3. Everyone that wants to connect to them fills in the host's IP, and presses 'connect' (just google "what is my ip?")
 4. Put something in a warp depot and the others can take it out. (the mod will spawn one between your house and the market place for you to use)
