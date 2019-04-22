@@ -11,7 +11,7 @@ This led to me making this mod. It doesn't give you a full multiplayer experienc
 ## What it does
 The mod allows you to host and connect to other people, and then syncs the contents of any warp depot's with whomever you're connected with. It's safe to use with existing save files, and can be removed at any time without harming your save file.
 
-It adds a Amber Warp Depot next to the market, so if you start a new game, you'll have access to sharing things right away! But it'll work for every Warp Depot, even ones you already placed.  
+It also adds a Amber Warp Depot next to the market, so if you start a new game, you'll have access to sharing things right away! But it'll work for every Warp Depot, even ones you already placed.  
 The mod allows for putting even slimes into the Depot's, as a bonus side effect this also allows you to store slimes into storage silo's.
 
 <br>
