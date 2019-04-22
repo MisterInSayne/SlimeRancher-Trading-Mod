@@ -22,9 +22,16 @@ It's very easy.
 And all done!
 
 
-## How to install it
-
-
 ## A small heads up
 When first connecting, the contents in warp depots on the host's side will overwrite those of anyone connecting, even if they're empty. So make sure it's either the same or your side is empty before connecting.
 The mod doesn't check for save file reloading, so it is possible to lose or duplicate items that way, which won't harm anything, but could be seen as cheating. This is in your own hands however.
+
+
+## How to install it
+You'll need the uMod Framework installed, which can be found [here](https://umodframework.com/download.html).
+You can find a guide on how to install it [here](https://umodframework.com/wiki/Install_Guide)
+Some antiviruses will flag it as a treat because it makes use of code injection to be able to apply changes to the game, just as a heads up.
+Once succesfully installed, put the Mod in the Mod folder, and you should be ready to go!
+
+
+If you need any help, double check the install guide, or ask someone on the [uMod Discord](https://discord.gg/FMrhTnH)
