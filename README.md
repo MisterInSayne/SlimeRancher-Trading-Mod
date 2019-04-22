@@ -42,7 +42,7 @@ Some antiviruses will flag it as a treat because it makes use of code injection 
 Once succesfully installed, put the Mod in the Mod folder, and you should be ready to go!
 
 
-If you need any help, double check the [install guide](https://umodframework.com/wiki/Install_Guide), or ask someone on the [uMod Discord](https://discord.gg/FMrhTnH)
+If you need any help, double check the [install guide](https://umodframework.com/wiki/Install_Guide), or ask someone on the [uMod Framework Discord](https://discord.gg/FMrhTnH)
 
 <br>
 
