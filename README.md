@@ -4,7 +4,7 @@ An online trading mod for SlimeRancher
 
 ## About the Mod
 Me and my player 2 have been playing Slime Rancher together a lot. But because there is no multiplayer, we weren't able to really share things, or give eachother resources, slimes or other things whenever we had loads, and the other needed some.  
-This led to me making this mod. It doesn't give you a multiplayer experience, but it does allow you to share resources, plorts, and even slimes with your player 2, or even a bunch of friends, with the power of the internet!
+This led to me making this mod. It doesn't give you a full multiplayer experience, but it does allow you to share resources, plorts, and even slimes with your player 2, or even a bunch of friends, with the power of the internet!
 
 <br>
 
