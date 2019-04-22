@@ -41,3 +41,8 @@ Once succesfully installed, put the Mod in the Mod folder, and you should be rea
 
 
 If you need any help, double check the [install guide](https://umodframework.com/wiki/Install_Guide), or ask someone on the [uMod Discord](https://discord.gg/FMrhTnH)
+
+<br>
+
+### Do you like the mod?
+<a href='https://ko-fi.com/G2G8U8O7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
