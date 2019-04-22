@@ -33,6 +33,7 @@ The mod doesn't check for save file reloading, so it is possible to lose or dupl
 <br>
 
 ## How to install it
+You can download the mod [here](https://github.com/MisterInSayne/SlimeRancher-Trading-Mod/releases)
 You'll need the uMod Framework installed, which can be found [here](https://umodframework.com/download.html).  
 You can find a guide on how to install it [here](https://umodframework.com/wiki/Install_Guide).  
 Some antiviruses will flag it as a treat because it makes use of code injection to be able to apply changes to the game, just as a heads up.  
