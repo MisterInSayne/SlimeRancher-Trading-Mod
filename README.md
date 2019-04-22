@@ -24,6 +24,8 @@ It's very easy.
 4. Put something in a warp depot and the others can take it out. (the mod will spawn one between your house and the market place for you to use, but any warp depot will work)  
 And all done!
 
+Because it uses networking, you might have to forward it's ports, aswell as add Slime Rancher to your firewall. The default port is 801, but this can be changed in the mod's config. 
+
 <br>
 
 ## A small heads up
