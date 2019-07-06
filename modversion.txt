@@ -1,1 +1,1 @@
-1.1|https://github.com/MisterInSayne/SlimeRancher-Trading-Mod/releases/download/Test4/Trading.Mod.zip
+1.0|https://github.com/MisterInSayne/SlimeRancher-Trading-Mod/releases/download/Test4/Trading.Mod.zip
